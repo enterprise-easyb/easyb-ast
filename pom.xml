@@ -7,7 +7,7 @@
 		<version>1.5</version>
 	</parent>
 	<artifactId>easyb-ast</artifactId>
-	<version>1.1</version>
+	<version>1.2-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>easyb-ast</name>
 
@@ -21,9 +21,5 @@
       <type>pom</type>
     </dependency>
   </dependencies>
-
-  <scm>
-    <tag>easyb-ast-1.1</tag>
-  </scm>
 </project>
 
