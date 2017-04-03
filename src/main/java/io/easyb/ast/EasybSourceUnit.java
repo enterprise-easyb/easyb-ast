@@ -1,4 +1,4 @@
-package org.easyb.ast;
+package io.easyb.ast;
 
 import org.codehaus.groovy.ast.ASTNode;
 import org.codehaus.groovy.control.Janitor;

@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<artifactId>easyb-maven-parent</artifactId>
-		<groupId>org.easyb</groupId>
-		<version>1.5</version>
+		<groupId>io.easyb</groupId>
+		<version>2.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>easyb-ast</artifactId>
-	<version>1.2-SNAPSHOT</version>
+	<version>2.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>easyb-ast</name>
 
@@ -15,9 +15,9 @@
 
   <dependencies>
     <dependency>
-      <groupId>org.easyb</groupId>
+      <groupId>io.easyb</groupId>
       <artifactId>easyb-composite-groovy</artifactId>
-      <version>[1.1,2)</version>
+      <version>2.0-SNAPSHOT</version>
       <type>pom</type>
     </dependency>
   </dependencies>
